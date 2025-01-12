@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hi there! 👋✨
 
-<!--
-**promitapew/promitapew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Promita Pew**, a passionate and adventurous learner 🚀 with a love for technology, problem-solving, and continuous growth. Originally from **Bangladesh 🇧🇩** and now based in **Ontario, Canada 🇨🇦**, I hold a **Master of Management degree 🎓** from the University of Windsor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 **Professional Life**
+
+Currently, I work as a **Technical Support Specialist** at **Sutherland Global**, where I excel in resolving complex technical challenges for AT&T US customers and technicians. I specialize in troubleshooting broadband connections, IPTV, and smart devices, ensuring seamless customer experiences.
+
+With **5+ years of professional experience** spanning Canada and Bangladesh, I’ve worked across diverse industries and roles:
+
+- **Industries**: AI healthcare apps, telecommunications, drop-shipping logistics startups, e-commerce fashion retail, and IT BPO.
+- **Functions**: Business development, customer service, product & pricing strategy, technical support, project management, and stakeholder management.
+
+---
+
+## 📈 **Active Learning**
+
+I’m a lifelong learner 📚 and have completed several courses on **DataCamp**, developing projects that showcase my analytical and technical skills. Check out my portfolio here:  
+[DataCamp Portfolio](https://www.datacamp.com/portfolio/pewpromita)
+
+---
+
+## 💻 **Tech Enthusiast**
+
+I actively contribute to open-source projects, including cloning and navigating the **Shopify Dawn theme repository**, showcasing my ability to quickly learn GitHub workflows. Explore the project here:  
+[Shopify Dawn Practice Repository](https://github.com/promitapew/Shopify-Dawn-Practice)
+
+I’m also sharpening my skills in **HTML**, **CSS**, and **Rest API development**, leveraging tools like Git Bash, GitHub, VS Studio, and Shopify Liquid. My goal? To create a robust e-commerce platform for my online fashion business, **Rohinee**:  
+[Rohinee on Facebook](https://www.facebook.com/Rohineebd)
+
+---
+
+## 💼 **Entrepreneurial Ventures**
+
+Alongside **Rohinee**, I’m a co-owner and investor in **Madventure**, a beautiful resort in the scenic hill region of Sajek, Rangamati, Bangladesh. This venture is a shared dream with friends who share my love for travel and exploration. Take a look:  
+[Madventure Resort on Facebook](https://www.facebook.com/MadventureResort.sajek)
+
+---
+
+## 🎨 **Hobbies and Passions**
+
+I’m an adventure enthusiast who loves **trekking**, **traveling**, **cooking**, and **music 🎶**. These passions keep me inspired and fuel my creativity. Recently, I explored stunning waterfalls and trails around **Hamilton, Ontario**. Check out my adventures here:  
+[Adventure Album on Facebook](https://www.facebook.com/media/set/?set=a.3618710944940745&type=3)
+
+---
+
+## 🤝 **Let’s Connect!**
+
+I’m always eager to collaborate, receive mentorship, and share ideas. Reach out to me via email at **promitapew@gmail.com** 📧 or connect with me on LinkedIn:  
+[Promita Pew on LinkedIn](https://www.linkedin.com/in/promitapew)
+
+Let’s create, explore, and grow together! 🌟
