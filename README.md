@@ -1,6 +1,8 @@
 # Hi there! 👋✨
 
-I’m **Promita Pew**, a passionate and adventurous learner 🚀 with a love for technology, problem-solving, and continuous growth. Originally from **Bangladesh 🇧🇩** and now based in **Ontario, Canada 🇨🇦**, I hold a **Master of Management degree 🎓** from the University of Windsor.
+# This is PROMITA PEW! 
+
+A passionate and adventurous learner 🚀 with a love for technology, problem-solving, and continuous growth. Originally from **Bangladesh 🇧🇩** and now based in **Ontario, Canada 🇨🇦**, I hold a **Master of Management degree 🎓** from the University of Windsor.
 
 ---
 
