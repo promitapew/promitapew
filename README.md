@@ -36,11 +36,9 @@ Additionally, I am expanding my expertise in **HTML**, **CSS**, and **REST API d
 
 ## 💼 **Entrepreneurial Ventures**
 
-**Rohinee** is a Bangladeshi online shopping platform dedicated to women, offering a wide range of products including clothing, accessories, skincare items, and homemade healthy foods. Explore more on our Facebook page:
-[Rohinee on Facebook](https://www.facebook.com/Rohineebd)
+**Rohinee** is a Bangladeshi online shopping platform dedicated to women, offering a wide range of products including clothing, accessories, skincare items, and homemade healthy foods. Explore more on our Facebook page:[Rohinee on Facebook](https://www.facebook.com/Rohineebd)
 
-Alongside **Rohinee**, I’m a co-owner and investor in **Madventure**, a beautiful resort in the scenic hill region of Sajek, Rangamati, Bangladesh. This venture is a shared dream with friends who share my love for travel and exploration. Take a look:  
-[Madventure Resort on Facebook](https://www.facebook.com/MadventureResort.sajek)
+Alongside **Rohinee**, I’m a co-owner and investor in **Madventure**, a beautiful resort in the scenic hill region of Sajek, Rangamati, Bangladesh. This venture is a shared dream with friends who share my love for travel and exploration. Take a look:[Madventure Resort on Facebook](https://www.facebook.com/MadventureResort.sajek)
 
 ---
 
