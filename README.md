@@ -26,15 +26,18 @@ I’m a lifelong learner 📚 and have completed several courses on **DataCamp**
 
 ## 💻 **Tech Enthusiast**
 
-I actively contribute to open-source projects, including cloning and navigating the **Shopify Dawn theme repository**, showcasing my ability to quickly learn GitHub workflows. Explore the project here:  
+I am currently building my **Portfolio Website** to showcase my projects and technical skills. Follow my progress and contributions here:  
+[Portfolio Website Repository](https://github.com/promitapew/portfolio-website)
+
+I am also an active contributor to open-source projects, including the **Shopify Dawn theme repository**, where I have honed my ability to navigate GitHub workflows and work with complex repositories. You can explore this project here:  
 [Shopify Dawn Practice Repository](https://github.com/promitapew/Shopify-Dawn-Practice)
 
-I’m also sharpening my skills in **HTML**, **CSS**, and **Rest API development**, leveraging tools like Git Bash, GitHub, VS Studio, and Shopify Liquid. My goal? To create a robust e-commerce platform for my online fashion business, **Rohinee**:  
-[Rohinee on Facebook](https://www.facebook.com/Rohineebd)
-
----
+Additionally, I am expanding my expertise in **HTML**, **CSS**, and **REST API development** while utilizing tools like Git Bash, GitHub, VS Studio, and Shopify Liquid. My ultimate goal is to design and develop a robust e-commerce platform for my online fashion business, **Rohinee**
 
 ## 💼 **Entrepreneurial Ventures**
+
+**Rohinee** is a Bangladeshi online shopping platform dedicated to women, offering a wide range of products including clothing, accessories, skincare items, and homemade healthy foods. Explore more on our Facebook page:
+[Rohinee on Facebook](https://www.facebook.com/Rohineebd)
 
 Alongside **Rohinee**, I’m a co-owner and investor in **Madventure**, a beautiful resort in the scenic hill region of Sajek, Rangamati, Bangladesh. This venture is a shared dream with friends who share my love for travel and exploration. Take a look:  
 [Madventure Resort on Facebook](https://www.facebook.com/MadventureResort.sajek)
